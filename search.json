@@ -76,219 +76,176 @@
     "text": "🌟 Above and Beyond 🌟\nAfter reviewing your findings, the watchdog group would like some additional questions answered:\n\nHow are things affected if you include the “made for TV movies” that have been assigned TV ratings in your analysis, but still exclude unrated movies?\nThey would also like to see a separate report that includes only TV shows.\nFor an upcoming community meeting, the group would like to present a simple chart showing “For Kids” and “For Adults” categories. The easiest way to accomplish this would be to create a new column in your data frame that maps each rating to the appropriate “For Kids” or “For Adults” label, then create a new visualization based on that column."
   },
   {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Competition"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Competition"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 2"
+      "Project 1"
     ]
   },
   {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Full Stack",
-      "Project 4"
+      "Project 3"
     ]
   },
   {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 1"
+      "Project 2"
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
       "Project 4"
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
       "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
     ]
   },
   {
@@ -327,177 +284,255 @@
     "text": "July 7, 2024"
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
+      "Machine Learning",
       "Project 1"
     ]
   },
   {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
       "Project 5"
     ]
   },
   {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
       "Project 4"
     ]
   },
   {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
       "Project 2"
     ]
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
+    "objectID": "competition.html",
+    "href": "competition.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Competition"
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Story Telling"
+      "Competition"
     ]
   },
   {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Competition",
-      "Project 3"
+      "Project 5"
     ]
   },
   {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Competition",
-      "Project 1"
+      "Project 4"
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack"
+      "Competition",
+      "Project 2"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
+    "objectID": "notebooks/Exploration_02.html#part-1-import-pandas-and-load-the-data",
+    "href": "notebooks/Exploration_02.html#part-1-import-pandas-and-load-the-data",
+    "title": "Data Exploration 02",
+    "section": "Part 1: Import Pandas and load the data",
+    "text": "Part 1: Import Pandas and load the data\nRemember to import Pandas the conventional way. If you’ve forgotten how, you may want to review Data Exploration 01.\nThe dataset for this exploration is stored at the following url:\nhttps://raw.githubusercontent.com/byui-cse/cse450-course/master/data/cereal.csv\nThere are lots of ways to load data into your workspace. The easiest way in this case is to ask Pandas to do it for you.\n\nInitial Data Analysis\nOnce you’ve loaded the data, it’s a good idea to poke around a little bit to find out what you’re dealing with.\nSome questions you might ask include:\n\nWhat does the data look like?\nWhat kind of data is in each column?\nDo any of the columns have missing values?\n\n\n# Part 1: Enter your code below to import Pandas according to the\n# conventional method. Then load the dataset into a Pandas dataframe.\nimport pandas as pd\n\ncereal = pd.read_csv('https://raw.githubusercontent.com/byui-cse/cse450-course/master/data/cereal.csv')\n# Write any code needed to explore the data by seeing what the first few\n# rows look like. Then display a technical summary of the data to determine\n# the data types of each column, and which columns have missing data.\n\ncereal.shape\ncereal.head(10)\ncereal.info()\ncereal.describe()\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 77 entries, 0 to 76\nData columns (total 16 columns):\n #   Column    Non-Null Count  Dtype  \n---  ------    --------------  -----  \n 0   name      77 non-null     object \n 1   mfr       77 non-null     object \n 2   type      77 non-null     object \n 3   calories  77 non-null     int64  \n 4   protein   77 non-null     int64  \n 5   fat       77 non-null     int64  \n 6   sodium    77 non-null     int64  \n 7   fiber     77 non-null     float64\n 8   carbo     77 non-null     float64\n 9   sugars    77 non-null     int64  \n 10  potass    77 non-null     int64  \n 11  vitamins  77 non-null     int64  \n 12  shelf     77 non-null     int64  \n 13  weight    77 non-null     float64\n 14  cups      77 non-null     float64\n 15  rating    77 non-null     float64\ndtypes: float64(5), int64(8), object(3)\nmemory usage: 9.8+ KB\n\n\n\n  \n    \n\n\n\n\n\n\ncalories\nprotein\nfat\nsodium\nfiber\ncarbo\nsugars\npotass\nvitamins\nshelf\nweight\ncups\nrating\n\n\n\n\ncount\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n77.000000\n\n\nmean\n106.883117\n2.545455\n1.012987\n159.675325\n2.151948\n14.597403\n6.922078\n96.077922\n28.246753\n2.207792\n1.029610\n0.821039\n42.665705\n\n\nstd\n19.484119\n1.094790\n1.006473\n83.832295\n2.383364\n4.278956\n4.444885\n71.286813\n22.342523\n0.832524\n0.150477\n0.232716\n14.047289\n\n\nmin\n50.000000\n1.000000\n0.000000\n0.000000\n0.000000\n-1.000000\n-1.000000\n-1.000000\n0.000000\n1.000000\n0.500000\n0.250000\n18.042851\n\n\n25%\n100.000000\n2.000000\n0.000000\n130.000000\n1.000000\n12.000000\n3.000000\n40.000000\n25.000000\n1.000000\n1.000000\n0.670000\n33.174094\n\n\n50%\n110.000000\n3.000000\n1.000000\n180.000000\n2.000000\n14.000000\n7.000000\n90.000000\n25.000000\n2.000000\n1.000000\n0.750000\n40.400208\n\n\n75%\n110.000000\n3.000000\n2.000000\n210.000000\n3.000000\n17.000000\n11.000000\n120.000000\n25.000000\n3.000000\n1.000000\n1.000000\n50.828392\n\n\nmax\n160.000000\n6.000000\n5.000000\n320.000000\n14.000000\n23.000000\n15.000000\n330.000000\n100.000000\n3.000000\n1.500000\n1.500000\n93.704912"
+  },
+  {
+    "objectID": "notebooks/Exploration_02.html#part-2-calculate-summary-statistics",
+    "href": "notebooks/Exploration_02.html#part-2-calculate-summary-statistics",
+    "title": "Data Exploration 02",
+    "section": "Part 2: Calculate Summary Statistics",
+    "text": "Part 2: Calculate Summary Statistics\nThe marketing team has determined that when choosing a cereal, consumers are most interested in calories, sugars, fiber, fat, and protein.\nFirst, let’s calcuate some summary statistics for these categories across the entire dataset. We’re particularly intrested in the mean, median, standard deviation, min, and max values.\nThere are multiple ways to accomplish this.\n\n# Part 2: Enter your code below to calculate summary statistics for the\n# calories, sugars, fiber, fat, and protein features."
+  },
+  {
+    "objectID": "notebooks/Exploration_02.html#part-3-transform-data",
+    "href": "notebooks/Exploration_02.html#part-3-transform-data",
+    "title": "Data Exploration 02",
+    "section": "Part 3: Transform Data",
+    "text": "Part 3: Transform Data\nTo make analysis easier, you want to convert the manufacturer codes used in the dataset to the manufacturer names.\nFirst, display the count of each manufacturer code value used in the dataset (found in the mfr column).\nThen, create a new column with the appropriate manufacturer name for each entry, using this mapping:\nA = American Home Food Products\nG = General Mills\nK = Kelloggs\nN = Nabisco\nP = Post\nQ = Quaker Oats\nR = Ralston Purina\n\nNote: While the tutorial linked above uses the replace function, using the map function instead can often be much faster and more memory efficient, especially for large datasets.\n\n\n# Display the count of values for the manufacturer code (\"mfr\" column), then\n# create a new column containing the appropriate manufacturer names."
+  },
+  {
+    "objectID": "notebooks/Exploration_02.html#part-4-visualization",
+    "href": "notebooks/Exploration_02.html#part-4-visualization",
+    "title": "Data Exploration 02",
+    "section": "Part 4: Visualization",
+    "text": "Part 4: Visualization\nLet’s do some more data exploration visually.\nImport your visualization library of choice and set any needed configuration options.\n\n# Import your visualization library\n\n\nSugar Distribution\nMarketing tells us that their surveys have revealed that sugar content is the number one concern of consumers when choosing cereal.\nThey would like to see the following visualizations:\n\nA histogram plot of the sugar content in all cereals.\nA scatter plot showing the relationship between sugar and calories.\nA box plot showing the distribution of sugar content by manufacturer.\n\n\n# Create the three visualzations requested by the the marketing team"
+  },
+  {
+    "objectID": "notebooks/Exploration_02.html#above-and-beyond",
+    "href": "notebooks/Exploration_02.html#above-and-beyond",
+    "title": "Data Exploration 02",
+    "section": "🌟 Above and Beyond 🌟",
+    "text": "🌟 Above and Beyond 🌟\nThe marketing team is pleased with what you’ve accomplished so far. They have a meeting with top cereal executives in the morning, and they’d like you to do as many of the following additional tasks as you have time for:\n\nWeight Watchers used to have an older points system that used this formula: (calories / 50) + (fat / 12) - (fiber / 5), but only the first 4 grams of fiber were included in the calculation. For comparison’s sake, create an additional column with the calculation for the old points system.\nMarketing really likes the boxplot of the sugar content for each cereal, they’d like similar plots for calories and fat, but using different color schemes for each chart."
   },
   {
     "objectID": "Cleansing_Exploration/project5.html",
